@@ -18,7 +18,7 @@ And then select the directory where you downloaded the package file.
 Run the following code in your R console
 
 ```r
-install.packages("mbX_0.2.7.tar.gz", repos = NULL, type = "source")
+install.packages("mbX_0.2.0.tar.gz", repos = NULL, type = "source")
 ```
 Load the library.
 
