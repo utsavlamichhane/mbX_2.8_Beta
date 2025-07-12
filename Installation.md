@@ -3,7 +3,7 @@
 Download the package file from the link below.
 
 ```
-[https://outlookuga-my.sharepoint.com/:u:/g/personal/ul54354_uga_edu/EZIvdYxiO8VFsqV4TrY5jbUBmEWPB5E_FkllLJkU0421MA?e=F2Nbfu](https://outlookuga-my.sharepoint.com/personal/ul54354_uga_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Ful54354%5Fuga%5Fedu%2FDocuments%2FmbX%5Fbeta%5F2%2E8%2FmbX%5F0%2E2%2E0%2Etar%2Egz&parent=%2Fpersonal%2Ful54354%5Fuga%5Fedu%2FDocuments%2FmbX%5Fbeta%5F2%2E8&ga=1)
+https://outlookuga-my.sharepoint.com/:u:/g/personal/ul54354_uga_edu/ERwbyZVbaXxPiZj1lIzSBLcBRk8givavpU2EEQolhHhyXA?e=x2aMKd
 ```
 If you have trouble downloading the package file. 
 
