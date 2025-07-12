@@ -7,7 +7,7 @@ https://outlookuga-my.sharepoint.com/:u:/g/personal/ul54354_uga_edu/ERwbyZVbaXxP
 ```
 If you have trouble downloading the package file. 
 
-Email me I will send you a private google drive link.
+
 
 Open R studio.
 
